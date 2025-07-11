@@ -11,9 +11,13 @@ Personal Profile repository
 
 ## 🧠 About Me
 
-I’m a passionate and detail-oriented Software Engineer focused on building scalable, intuitive, and high-performance applications. My professional background spans full-stack development, enterprise-level solutions, and responsive web apps. I’ve improved app performance by 25% and reduced code complexity by 20% by implementing smart architectural strategies and reusable components.
+## 🧠 About Me
 
-I love solving real-world problems with clean, maintainable code and continuously seek opportunities to grow as a developer. Whether it’s enhancing user experience or optimizing backend systems, I bring a collaborative mindset and a commitment to quality.
+I’m a passionate and detail-oriented Software Engineer currently pursuing my Master’s in Computer Science at the University of Southern California. I bring 3+ years of industry experience from Wipro Limited, where I worked across the full stack to build user-focused, enterprise-grade web applications.
+
+I enjoy solving real-world challenges through clean code, intuitive interfaces, and scalable architectures. My interests lie at the intersection of frontend elegance and backend efficiency, and I take pride in writing code that's as maintainable as it is functional.
+
+When I’m not coding, I love exploring emerging technologies, learning about system design, and building side projects that challenge me to grow outside the classroom.
 
 ---
 

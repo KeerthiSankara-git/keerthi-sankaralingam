@@ -11,8 +11,6 @@ Personal Profile repository
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 I’m a passionate and detail-oriented Software Engineer currently pursuing my Master’s in Computer Science at the University of Southern California. I bring 3+ years of industry experience from Wipro Limited, where I worked across the full stack to build user-focused, enterprise-grade web applications.
 
 I enjoy solving real-world challenges through clean code, intuitive interfaces, and scalable architectures. My interests lie at the intersection of frontend elegance and backend efficiency, and I take pride in writing code that's as maintainable as it is functional.
